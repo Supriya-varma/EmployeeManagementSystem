@@ -4,7 +4,7 @@
 #include<string.h>
 #include<stdlib.h>
 
- struct Employee
+ struct Employee   //structure to create employee details
   {
      char Employee_Name[40];
      int Employee_Age;
